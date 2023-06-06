@@ -1,0 +1,1 @@
+D:\CrossPlatform\lab2\Lab2.csproj;x64
